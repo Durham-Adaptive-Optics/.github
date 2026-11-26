@@ -51,10 +51,18 @@ building an AO system and want to know whether DAO fits, **get in touch**.
 DAO was created by [David Barr](https://github.com/davetbarr) and
 [Sylvain Cetre](https://github.com/scetre), and is developed at the [Centre for Advanced
 Instrumentation](https://www.durham.ac.uk/research/institutes-and-centres/advanced-instrumentation/)
-(CfAI), Durham University, and at [Wakea Consulting](https://wakeaconsulting.com), with
-contributors from the AO community. Between them, the
-team has decades of experience building and operating RTCs for some of the world's largest
-telescopes.
+(CfAI), Durham University, at [Wakea Consulting](https://wakeaconsulting.com) and at
+[Dave T Barr Consulting](https://davetbarr.com), with contributors from the AO community.
+Between them, the team has decades of experience building and operating RTCs for some of the
+world's largest telescopes.
+
+## Paid support
+
+DAO is open source and free to use. When you need more than the community can offer, paid
+support is available from [Wakea Consulting](https://wakeaconsulting.com),
+[Dave T Barr Consulting](https://davetbarr.com) and, as required, Durham University: help to
+install and configure DAO, integration of your hardware, development of new components or of a
+complete RTC, on-site commissioning, training and long-term maintenance.
 
 ## Citing DAO
 
