@@ -48,8 +48,8 @@ building an AO system and want to know whether DAO fits, **get in touch**.
 
 ## Who we are
 
-DAO was created by [David Barr](https://github.com/davetbarr) and
-[Sylvain Cetre](https://github.com/scetre), and is developed at the [Centre for Advanced
+DAO was created by [Sylvain Cetre](https://github.com/scetre) and 
+[David Barr](https://github.com/davetbarr), and is developed at the [Centre for Advanced
 Instrumentation](https://www.durham.ac.uk/research/institutes-and-centres/advanced-instrumentation/)
 (CfAI), Durham University, at [Wakea Consulting](https://wakeaconsulting.com) and at
 [Dave T Barr Consulting](https://davetbarr.com), with contributors from the AO community.
